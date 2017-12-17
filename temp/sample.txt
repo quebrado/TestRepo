@@ -2,4 +2,6 @@ A first file to submit.
 
 Make a change to it.
 
-Branch, then change again
+Branch, then change again.
+
+Add some text in the branch.
